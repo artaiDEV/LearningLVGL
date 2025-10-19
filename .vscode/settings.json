@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "lvgl.h": "c",
+        "lv_timer_private.h": "c",
+        "lv_init.h": "c",
+        "*.piopm": "cpp"
+    }
+}
